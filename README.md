@@ -42,7 +42,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas hab
 ## 📫 Como me encontrar
 
 * GitHub: [https://github.com/Mcaua7](https://github.com/Mcaua7)
-* LinkedIn: [https://linkedin.com/in/matheus-cauã](https://linkedin.com/in/matheus-cauã)
+* LinkedIn: [https://linkedin.com/in/matheus-cauã](https://linkedin.com/in/matheus-cauã-9a77572b9)
 * Email: [matheuscaua0306@gmail.com](mailto:matheuscaua0306@gmail.com)
 
 ---
