@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cauã!
 
-<!--
-**Mcaua7/Mcaua7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante | 💻 Desenvolvedor em formação | 💻 Técnico em Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas habilidades e alguns projetos que venho desenvolvendo ao longo da minha jornada na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+* 📍 Brasil
+* 🎯 Objetivo: evoluir constantemente como desenvolvedor e compartilhar conhecimento
+* 🤝 Gosto de aprender ensinando e resolver problemas na prática
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens:**
+
+* Python
+* TypeScript
+* JavaScript
+
+**Ferramentas:**
+
+* Git & GitHub
+* VS Code
+  
+---
+
+## 📈 Em aprendizado
+
+* Automação com Python
+* Web scraping
+* APIs
+* Estruturas de dados
+* Sistemas digitais
+
+---
+
+## 📫 Como me encontrar
+
+* GitHub: [https://github.com/Mcaua7](https://github.com/Mcaua7)
+* LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/matheus-cauã)
+* Email: [seuemail@email.com](mailto:matheuscaua0306@gmail.com)
+
+---
+
+## ⭐ Curiosidades
+
+* Gosto de aprender coisas novas testando na prática
+* Curto explicar conteúdos de programação de forma simples
+* Sempre aberto a trocar ideia e colaborar em projetos
+
+---
+
+## Seja bem vindo 👋
