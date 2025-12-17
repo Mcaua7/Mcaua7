@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas hab
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 * 📍 Brasil
 * 🎯 Objetivo: evoluir constantemente como desenvolvedor e compartilhar conhecimento
@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas hab
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 **Linguagens:**
 
@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas hab
   
 ---
 
-## 📈 Em aprendizado
+##  Em aprendizado
 
 * Automação com Python
 * Web scraping
@@ -39,7 +39,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas hab
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
 * GitHub: [https://github.com/Mcaua7](https://github.com/Mcaua7)
 * LinkedIn: [https://linkedin.com/in/matheus-cauã](https://linkedin.com/in/matheus-cauã-9a77572b9)
@@ -47,7 +47,7 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar um pouco sobre mim, minhas hab
 
 ---
 
-## ⭐ Curiosidades
+##  Curiosidades
 
 * Gosto de aprender coisas novas testando na prática
 * Curto explicar conteúdos de programação de forma simples
